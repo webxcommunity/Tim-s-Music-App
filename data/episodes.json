@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Episode 1 - Getting started",
+        "description": "In this episode, we introduce the podcast and share what to expect in the upcoming shows.",
+        "cover": "assets/images/cover-image1.jpg",
+        "audio": "assets/audio/episode1.mp3"
+    },
+
+    {
+        "title": "Episode 2 Deep Dice into Cretaivity",
+        "description": "We explore creativity, how to nurture it, and how it can change your work and life.",
+        "cover": "assets/images/cover-image2.jpg",
+        "audio": "assets/audio/episode2.mp3"
+    },
+
+     {
+        "title": "Episode 3 Deep Dice into Cretaivity",
+        "description": "We explore creativity, how to nurture it, and how it can change your work and life.",
+        "cover": "assets/images/cover-image3.jpg",
+        "audio": "assets/audio/episode3.mp3"
+    }
+]

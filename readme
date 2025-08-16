@@ -1,0 +1,51 @@
+Tim's Online Podcast
+
+A modern and responsive podcast web application built with HTML, CSS, and JavaScript.  
+This project allows users to listen to episodes, download audio files, and enjoy a premium, mobile-friendly interface.
+
+Features
+Audio Playback -> for each episode.
+Download Button -> for instant audio file download.
+Fully Responsive -> design for mobile, tablet, and desktop.
+Premium UI/UX -> with smooth animations and hover effects.
+Smooth Scroll Navigation and Active Link Highlighting.
+
+---
+
+Folder Structure
+podcast-web-app/
+│── index.html
+│── README.md
+│
+├── css/
+│ ├── style.css -> Main styling
+│ └── responsive.css -> Mobile & tablet adjustments
+│
+├── js/
+│ └── script.js -> Smooth scrolling & active nav
+│
+├── assets/
+│ ├── audio/ -> Podcast episodes (MP3)
+│ ├── images/ -> Episode covers & logos
+│ └── icons/ -> SVG or PNG icons
+│
+└── data/
+└── episodes.json -> Episode metadata (optional)
+
+
+Future Improvements
+Add search & filter for episodes.
+Add playlist & favorites feature.
+Implement upload feature with a backend.
+Integrate with Spotify API or other podcast APIs.
+
+
+License
+This project is licensed under the MIT License – feel free to use, modify, and distribute.
+
+Author
+Developed by Okuwobi Timothy
+
+
+
+
